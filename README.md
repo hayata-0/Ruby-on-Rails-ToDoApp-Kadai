@@ -1,24 +1,13 @@
-# README
+# 簡易的なTodoApp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### つまづいた点
 
-Things you may want to cover:
+* Railsをインストール際にM1Macだとインストールできないバージョンがあったり、標準のSSL/TLSライブラリにOpenSSLがインストールされていないためエラーが出てしまうなどが多くありました。
 
-* Ruby version
+##### 参考にした資料
 
-* System dependencies
+* `https://autovice.jp/articles/178`
+* `https://nomad.office-aship.info/macos-rbenv/`
+* `https://zenn.dev/osuzuki/articles/a535b2840bbea3`
+* `https://nomad.office-aship.info/macos-rbenv/`
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
